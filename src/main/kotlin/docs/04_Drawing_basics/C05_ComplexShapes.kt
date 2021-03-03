@@ -11,7 +11,7 @@ import org.openrndr.shape.*
 import kotlin.math.cos
 
 
-fun main(args: Array<String>) {
+fun main() {
     @Text """# Complex shapes
 OPENRNDR offers a lot of tools for the creation and drawing of two dimensional shapes.
 """
